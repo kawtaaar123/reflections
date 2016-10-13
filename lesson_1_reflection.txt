@@ -12,12 +12,12 @@ What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
-    Fill in your answer here
+    Fill 
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Fill in your answer here
+    Fill 
 
 How can you use the commands git log and git diff to view the history of files?
 
